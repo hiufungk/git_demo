@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 lklklkl this is test2
+after fix conflict
+>>>>>>> 8c0ff35859026639e34dc797fe87a4edb442fbf1
